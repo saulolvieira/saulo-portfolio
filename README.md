@@ -5,7 +5,7 @@ Bem-vindo(a) ao meu portfólio! Sou um profissional de Analytics e Data Science 
 Tecnologias e Ferramentas: Python, SQL, PowerBI
 
 Projetos
-- Web scraping to gain company insights
+- [Web scraping to gain company insights](https://saulolvieira.github.io/project_1_ws_ba/)
 - Predicting customer buying behaviour
 
 Minha abordagem se baseia na coleta e análise cuidadosa dos dados, aplicação de modelos estatísticos avançados e criação de visualizações informativas. Acredito na importância de tomar decisões baseadas em dados e buscar continuamente a excelência analítica.
